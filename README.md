@@ -6,8 +6,9 @@
 			pip install Pillow
 		直接运行PictureTellYou.py
 		获2019年天融信Python编程杯最佳程序设计。
+		by-Srpihot*  ANTI-TECH/Painter/0E0W
 	用法：
-		输入1为信息加密 输入2为信息解密 根据命令操作即可
+		根据命令操作即可
 
 目录内文件介绍：
 	test.png,test1.png为测试文件
